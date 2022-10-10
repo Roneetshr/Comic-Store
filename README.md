@@ -1,1 +1,1 @@
-# Comic-Store
+# PRO-C157-Student-Activity
